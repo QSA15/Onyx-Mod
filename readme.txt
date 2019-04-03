@@ -5,6 +5,6 @@ Installation Instructions:
 1:Download and unzip the OnyxMod.zip file.
 2:Go to chrome://extenstions
 3:Enable developer mode in the top right if you haven't already!
-4:Click Load unpacked in the top right corner.
+4:Click Load unpacked in the top left corner.
 5:Locate the unzipped OnyxMod file and import it.
 6:Once your mod has loaded, reload any open Krunker tabs or open Krunker. Any affected assets will be automatically replaced.
